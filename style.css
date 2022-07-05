@@ -7,15 +7,11 @@
 
 .headsection{
     display: flex;
-    margin-left: 15%;
-    margin-top: 10%;
-    background-image: url(images/shapes/Group\ 8448.png);
-    background-repeat: no-repeat;
-    
+    margin-left: 10%;
+    margin-top: 8%;
 }
 .headdetail{
     width: 50%;
-    
     
 }
 
@@ -49,4 +45,73 @@
     line-height: 150px;
     font-family: Poppins;
     font-size: 20px;
+}
+
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%
+} 
+
+.headsection{
+    padding: 40px;
+    
+}
+
+#secondsection{
+    margin-top: 100px;
+}
+
+.menusection {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.menusection h1{
+    font-size: 40px;
+    font-family: poppins;
+    font-size: 50px;
+}
+
+.menusection p{
+    margin-top: 25px;
+    font-family: poppins;
+}
+
+.recipie{
+    box-shadow: 10px 10px 40px gray;
+    padding: 5px 40px;
+    width: 30%;
+    height: 30%;
+    margin-top: -50px;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-evenly;
+}
+
+.recipie h1{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 45px;
+}
+
+.recipie p{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    text-align: center;
+    font-family: poppins;
+    font-size: 25px;
+}
+
+.heading2{
+    width: 60%;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#secondimg{
+    margin-left: 100px;
 }
