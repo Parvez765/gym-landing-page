@@ -115,3 +115,48 @@
 #secondimg{
     margin-left: 100px;
 }
+
+.number{
+    margin-left: 20%;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 30px;
+   
+
+}
+
+.numbersection{
+    display: flex;
+    
+}
+
+.number h1{
+    font-size: 60px;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 150px;
+    background-color: black;
+    padding: 10px;
+
+}
+
+footer h1{
+    font-size: 60px;
+    color: gray;
+    margin-top: 15px;
+}
+
+footer p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    color: white;
+    font-family: poppins;
+}
+
+.org{
+    color: orange;
+}
